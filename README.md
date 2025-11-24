@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-A modern, fully-responsive **CRM Dashboard UI** built with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**. Perfect for managing clients, tracking sales, and visualizing key metrics efficiently.
+A modern, fully-responsive **CRM Dashboard UI** built with **React**, **Tailwind CSS**, and **TypeScript**. Perfect for managing clients, tracking sales, and visualizing key metrics efficiently.
 
 ---
 
